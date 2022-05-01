@@ -7,6 +7,8 @@ Wifi replaced with an Air 2012 through an adapter.
 All the wifi fixes correspond to this module that is legacy since macos 11.
 Sleep working perfectly.
 
+USB ports mapped and charge properply.
+
 In BIOS enable CSM, boot UEFI, disable wake from mouse and keyboard.
 Use the power button to wake.
 
