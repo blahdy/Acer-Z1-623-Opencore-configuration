@@ -13,3 +13,5 @@ In BIOS enable CSM, boot UEFI, disable wake from mouse and keyboard.
 Use the power button to wake.
 
 Don't forget to genereate your own ID's!!!
+
+Display calibration profile provided as well, though you should make your own.
