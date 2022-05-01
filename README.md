@@ -5,7 +5,7 @@ i3-5005u
 
 Wifi replaced with an Air 2012 through an adapter.
 All the wifi fixes correspond to this module that is legacy since macos 11.
-Sleep working perfectly.
+Sleep works perfectly.
 
 USB ports mapped and charge properply.
 
